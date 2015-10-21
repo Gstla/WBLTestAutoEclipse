@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.bouncycastle:bcprov-jdk15on:1.48">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+  </library>
+  <library name="Maven: net.sourceforge.htmlunit:htmlunit-core-js:2.17">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.4">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.15">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-api/2.48.2/selenium-api-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-htmlunit-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:servlet-api-2.5:6.1.9">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/mortbay/jetty/servlet-api-2.5/6.1.9/servlet-api-2.5-6.1.9.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.3.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-common:9.2.12.v20150709">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/eclipse/jetty/websocket/websocket-common/9.2.12.v20150709/websocket-common-9.2.12.v20150709.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-client:9.2.12.v20150709">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/eclipse/jetty/websocket/websocket-client/9.2.12.v20150709/websocket-client-9.2.12.v20150709.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="Maven: org.beanshell:bsh:2.0b4">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar" />
+  </library>
+  <library name="Maven: org.json:json:20090211">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/json/json/20090211/json-20090211.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna-platform:4.1.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar" />
+  </library>
+  <library name="Maven: stax:stax-api:1.0.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:4.1.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-java/2.48.2/selenium-java-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml:3.12">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/poi/poi-ooxml/3.12/poi-ooxml-3.12.jar" />
+  </library>
+  <library name="Maven: xalan:serializer:2.7.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar" />
+  </library>
+  <library name="Maven: commons-digester:commons-digester:1.8.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar" />
+  </library>
+  <library name="Maven: javax.inject:javax.inject:1">
+    <archive path="C:/Users/Innovapath/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.3">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:17.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi:3.12">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/poi/poi/3.12/poi-3.12.jar" />
+  </library>
+  <library name="Maven: net.jcip:jcip-annotations:1.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-io:9.2.12.v20150709">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/eclipse/jetty/jetty-io/9.2.12.v20150709/jetty-io-9.2.12.v20150709.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:4.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/ow2/asm/asm/4.2/asm-4.2.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/Users/Innovapath/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: net.sourceforge.cssparser:cssparser:0.9.16">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.16/cssparser-0.9.16.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.48.2/selenium-chrome-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: net.sourceforge.htmlunit:htmlunit:2.18">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.18/htmlunit-2.18.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:jetty-rc-repacked:5">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/jetty-rc-repacked/5/jetty-rc-repacked-5.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:6.9.6">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/testng/testng/6.9.6/testng-6.9.6.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty:3.5.2.Final">
+    <archive path="C:/Users/Innovapath/.m2/repository/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar" />
+  </library>
+  <library name="Maven: com.google.inject:guice:no_aop:4.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/com/google/inject/guice/4.0/guice-4.0-no_aop.jar" />
+  </library>
+  <library name="Maven: io.appium:java-client:3.2.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/io/appium/java-client/3.2.0/java-client-3.2.0.jar" />
+  </library>
+  <library name="Maven: org.webbitserver:webbit:0.4.14">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/webbitserver/webbit/0.4.14/webbit-0.4.14.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:jetty-repacked:9.2.13.v20150730">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/jetty-repacked/9.2.13.v20150730/jetty-repacked-9.2.13.v20150730.jar" />
+  </library>
+  <library name="Maven: xerces:xercesImpl:2.11.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.10">
+    <archive path="C:/Users/Innovapath/.m2/repository/junit/junit/4.10/junit-4.10.jar" />
+  </library>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: org.apache.ant:ant:1.7.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/ant/ant/1.7.0/ant-1.7.0.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.3.3">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-api:9.2.12.v20150709">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/eclipse/jetty/websocket/websocket-api/9.2.12.v20150709/websocket-api-9.2.12.v20150709.jar" />
+  </library>
+  <library name="Maven: commons-validator:commons-validator:1.4.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-validator/commons-validator/1.4.1/commons-validator-1.4.1.jar" />
+  </library>
+  <library name="Maven: com.googlecode.json-simple:json-simple:1.1.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.4.01">
+    <archive path="C:/Users/Innovapath/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar" />
+  </library>
+  <library name="Maven: xalan:xalan:2.7.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar" />
+  </library>
+  <library name="Maven: cglib:cglib:3.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/cglib/cglib/3.1/cglib-3.1.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-util:9.2.12.v20150709">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/eclipse/jetty/jetty-util/9.2.12.v20150709/jetty-util-9.2.12.v20150709.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-server:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-server/2.48.2/selenium-server-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml-schemas:3.12">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.12/poi-ooxml-schemas-3.12.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.48">
+    <archive path="C:/Users/Innovapath/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar" />
+  </library>
+  <library name="Maven: cglib:cglib-nodep:2.1_3">
+    <archive path="C:/Users/Innovapath/.m2/repository/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar" />
+  </library>
+  <library name="Maven: net.sourceforge.nekohtml:nekohtml:1.9.22">
+    <archive path="C:/Users/Innovapath/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.22/nekohtml-1.9.22.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcpkix-jdk15on:1.48">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+  </library>
+  <library name="Maven: mx4j:mx4j-tools:3.0.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/mx4j/mx4j-tools/3.0.1/mx4j-tools-3.0.1.jar" />
+  </library>
+  <library name="Maven: org.apache.ant:ant-launcher:1.7.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/ant/ant-launcher/1.7.0/ant-launcher-1.7.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.10">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.4">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2.jar" />
+  </library>
+  <library name="Maven: org.w3c.css:sac:1.3">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:2.48.2">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.48.2/selenium-remote-driver-2.48.2.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.3">
+    <archive path="C:/Users/Innovapath/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpmime:4.5">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.2.4">
+    <archive path="C:/Users/Innovapath/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.1">
+    <archive path="C:/Users/Innovapath/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
